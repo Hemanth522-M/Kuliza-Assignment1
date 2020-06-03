@@ -10,7 +10,7 @@ Follow these steps to run this project in your local computer.
 
 ```
 First clone the project with this link , $ https://github.com/Hemanth522-M/Kuliza-Assignment1.git
-After go to command prompt then enter this , $ cd k-assignment
+After go to command prompt then enter this , $ cd Kuliza-Assignment1
 Then install the packages, $ npm install
 ```
 
